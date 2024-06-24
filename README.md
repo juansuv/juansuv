@@ -20,3 +20,7 @@ My name is Juan Suarez, currently working as Software Engineer at Buk.
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juansuv&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=juansuv&show_icons=true&theme=radical)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juansuv&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=juansuv&show_icons=true&theme=radical)
