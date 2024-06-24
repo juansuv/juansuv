@@ -4,8 +4,7 @@ My name is Juan Suarez, currently working as Software Engineer at Buk.
 
 - 🛠️ Engineer, programmer, Magic: the gathering player and nerd.
 - 🔗 Find me on [LinkedIn](https://www.linkedin.com/in/juansuva)
-- 📊 [cEDH Analytics](https://www.cedh-analytics.com) - My biggest personal project
-- 🎲 [Moxfield](https://www.moxfield.com)
+
 
 ## Languages and Stuff:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -18,4 +17,4 @@ My name is Juan Suarez, currently working as Software Engineer at Buk.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 
 ## Contributions:
-![Your Contribution Graph](https://ghchart.rshah.org/juansuva)
+![Your Contribution Graph](https://ghchart.rshah.org/juansuv)
