@@ -17,4 +17,4 @@ My name is Juan Suarez, currently working as Software Engineer at Buk.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 
 ## Contributions:
-![Your Contribution Graph](https://ghchart.rshah.org/bukhr)
+![Your Contribution Graph](https://ghchart.rshah.org/bukhr/buk-webapp)
